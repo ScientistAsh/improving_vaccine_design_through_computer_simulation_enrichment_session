@@ -11,3 +11,8 @@ There are 4 files in this repository:
   2. spike_ace2.pdb containing the coordinates for the SARS-CoV-2 Spike protein bound to the ACE2 receptor.
   3. spike_c105.pdb containing the coordinates for the SARS-CoV-2 Spike protein bround to the neutralizing antibody C105. 
   4. spike_tutorial.pdf containing instructions for this tutorial. 
+
+
+Click on Code and then Download zip file to your location of choice to download the tutorial files. After downloading the files, decompress the zip file. 
+
+Successful completion of this tutorial requires a locally installed copy of the VMD sofware (https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD). 
